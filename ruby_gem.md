@@ -21,7 +21,7 @@
 
 *Instructions on how to get help with this gem or report problems.  Are Github issues a good mechanism?*
 
-*Also outline future maintenance/development plans for this gem.*
+*Also outline who will be maintaining this project in the future.  Are there plans to freeze or sunset it?*
 
 ## Installation
 
@@ -60,6 +60,10 @@ Describe some use cases
 *Are there tests?  How do I run them?*
 
 ## Upcoming Features
+
+## Other Relevant Documentation
+
+* Links here to external documentation that might help someone using or developing on this gem
 
 ## License
 
