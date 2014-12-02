@@ -4,4 +4,4 @@
 
 Add an entry to your /etc/hosts file:
 
-127.0.0.1  localhost.nytimes.com
+    127.0.0.1  localhost.nytimes.com
