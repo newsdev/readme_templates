@@ -4,12 +4,13 @@
 
 *Brief description.  Links to additional documentation.*
 
+*Current example: [Badcom](https://github.com/newsdev/badcom)*
+
 ## Features
 
 * List
 * noteworthy
 * features
-
 
 ## Requirements
 
@@ -20,9 +21,11 @@
 
 *Instructions on how to get help with this gem or report problems.  Are Github issues a good mechanism?*
 
+*Also outline future maintenance/development plans for this gem.*
+
 ## Installation
 
-## Standard
+### Standard
 
     gem install gem_name
 
@@ -52,4 +55,8 @@ Describe some use cases
 
     And include some code.
 
+## Upcoming Features
 
+## License
+
+*Include and licence information here.*
