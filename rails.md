@@ -1,10 +1,10 @@
-# Gem Name
+# Rails Project
 
 ## Description
 
 *Brief description.  Links to additional documentation.*
 
-*Current example: [Badcom](https://github.com/newsdev/badcom)*
+*Current example: [Deck](https://github.com/newsdev/deck)*
 
 ## Features
 
@@ -19,11 +19,32 @@
 
 ## Support
 
-*Instructions on how to get help with this gem or report problems.  Are Github issues a good mechanism?*
+*Instructions on how to get help with this project or report problems.  Are Github issues a good mechanism?*
 
-*Also outline future maintenance/development plans for this gem.*
+*Also outline future maintenance/development plans for this project.*
 
-## Installation
+## Development Instructions
+
+### Setup
+
+*How to download and run the app.  For example:* 
+
+Check out the repo and cd into the local directory.
+
+    git clone git@github.com:newsdev/rails_project.git
+    cd rails_project
+
+Install the gems:
+
+    bundle install
+
+Run the Rails server:
+
+    rails s
+
+Project will be available at http://localhost.nytimes.com:3000/.
+
+(For information on setting up your localhost to use the nytimes.com domain, click [here](snippets/hosts.md).)
 
 ### Standard
 
