@@ -6,6 +6,18 @@
 
 *Current example: [Badcom](https://github.com/newsdev/badcom)*
 
+* [Features](#features)
+* [Requirements](#requirements)
+* [Support](#support)
+* [Installation](#installation)
+    * [Standard](#standard)
+    * [Rails](#rails)
+* [Examples](#examples)
+* [Tests](#tests)
+* [Upcoming Features](#upcoming-features)
+* [Other Relevant Documentation](#other-relevant-documentation)
+* [License](#license)
+
 ## Features
 
 * List
