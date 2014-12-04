@@ -4,7 +4,7 @@
 
 *Brief description.  Links to additional documentation.*
 
-*Current example: [Deck](https://github.com/newsdev/deck)*
+*Current example: [Blutack](https://github.com/newsdev/blutack)*
 
 * [Features](#features)
 * [Requirements](#requirements)
