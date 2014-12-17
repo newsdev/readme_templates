@@ -14,6 +14,7 @@
     * [Project-specific development information](#project-specific-development-information)
 * [Tests](#tests)
 * [Deployment](#deployment)
+* [Troubleshooting](#troubleshooting)
 * [Upcoming Features](#upcoming-features)
 * [Other Relevant Documentation](#other-relevant-documentation)
 * [Sunset Plans](#sunset-plans)
@@ -78,6 +79,15 @@ This project is deployed using [Blade](https://github.com/newsdev/blade-chef/). 
     bl deploy my-project -e admin -b master
 
 The development branch can be deployed to the staging environment, at http://my_project.stg.int.newsdev.net.
+
+## Troubleshooting
+
+*Info about how to debug/troubleshoot in production.  Should outline:*
+
+ * How to log onto servers: ie. `bl go prd-app`
+ * Links to Airbrake, New Relic, or other places monitoring/debug info is being collected.
+ * If there are other components: a daemon, sidekiq queue, etc. how do you start/stop?  How can you tell if it's running correctly?
+ * Common issues and how to resolve: for example, if there is a null record how to delete from db
 
 ## Upcoming Features
 
